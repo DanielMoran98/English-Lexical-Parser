@@ -1,0 +1,5 @@
+nodes,parent
+NP VP,S
+DET ADJ N,NP
+DET N,NP
+V NP,VP

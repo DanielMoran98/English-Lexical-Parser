@@ -1,0 +1,13 @@
+word,lexicon,plural
+a,DET,false
+the,DET,false
+man,N,false
+men,N,true
+woman,N,false
+women,N,true
+like,V,false
+likes,V,true
+bite,V,false
+bites,V,true
+green,ADJ,false
+dog,N,false
